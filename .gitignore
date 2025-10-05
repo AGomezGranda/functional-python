@@ -9,6 +9,7 @@ wheels/
 .ruff_cache/
 .mypy_cache/
 .coverage
+.vscode
 
 # Virtual environments
 .venv
